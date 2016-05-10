@@ -2,7 +2,8 @@
 A collection of scripts used for tracking T-cell expansions using HTS
 
 If using these scripts for your manuscript, we would be grateful if you could cite:
-Robinson MW, Hughes J, Wilkie GS, Swann R, Barclay ST, Mills PR, Patel AH, Thomson EC, McLauchlan J. Tracking TCRβ Sequence Clonotype Expansions during Antiviral Therapy Using High-Throughput Sequencing of the Hypervariable Region.
+
+Robinson MW, Hughes J, Wilkie GS, Swann R, Barclay ST, Mills PR, Patel AH, Thomson EC, McLauchlan J. **Tracking TCRβ Sequence Clonotype Expansions during Antiviral Therapy Using High-Throughput Sequencing of the Hypervariable Region.**
 Front Immunol. 2016 Apr 5;7:131. doi: [10.3389/fimmu.2016.00131](http://dx.doi.org/10.3389/fimmu.2016.00131). eCollection 2016.
 PMID: 27092143 
 
